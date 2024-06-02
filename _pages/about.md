@@ -1,22 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-
----
-
 I am currently pursuing my PhD at Xi'an University of Electronic Science and Technology, with a keen interest in artificial intelligence, game theory, and anti-jamming strategy. My current research focuses primarily on the theoretical and engineering applications of reinforcement learning, particularly in radar systems.
 
 
